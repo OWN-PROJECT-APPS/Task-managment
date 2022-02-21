@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">task management</string>
+    <string name="a_20125live_fr">a_20125live.fr</string>
+    <string name="leanne_graham">Leanne Graham</string>
+    <string name="bret">Bret</string>
+    <string name="task_title">Task title</string>
+    <string name="completed_incompleted">completed || incompleted</string>
+    <string name="completed" >completed</string>
+</resources>
